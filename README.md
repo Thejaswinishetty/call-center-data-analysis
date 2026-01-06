@@ -1,7 +1,7 @@
-# Call Center Performance Dashboard (Excel)
+# Call Centre Performance Dashboard (Excel)
 
 ## Objective
-To evaluate call center performance by analyzing call volume, agent efficiency, revenue, and customer trends.
+To evaluate call centre performance by analyzing call volume, agent efficiency, revenue, and customer trends.
 
 ## Tools Used
 - MS Excel
@@ -10,7 +10,7 @@ To evaluate call center performance by analyzing call volume, agent efficiency, 
 - Advanced Excel Formulas
 
 ## Dataset
-The dataset includes call center data such as call duration, agent details, revenue, customer demographics, and monthly call records.
+The dataset includes call centre data such as call duration, agent details, revenue, customer demographics, and monthly call records.
 
 ## Analysis Performed
 - Data cleaning and transformation
